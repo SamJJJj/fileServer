@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "factory.h": "c",
+        "types.h": "c",
+        "stat.h": "c",
+        "work_que.h": "c"
+    }
+}
